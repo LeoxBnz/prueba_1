@@ -11,6 +11,7 @@ namespace prueba1
         static void Main(string[] args)
         {
             Console.Write("Subiendo a repositorio");
+            Console.WriteLine("Se subio");
         }
     }
 }
