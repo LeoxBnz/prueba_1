@@ -1,0 +1,7 @@
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\Leonardo\Documents\AProyects - VS\AProyectos-UPN\prueba1\prueba1\obj\Debug\prueba1.pdb
