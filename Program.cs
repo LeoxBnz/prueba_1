@@ -12,6 +12,7 @@ namespace prueba1
         {
             Console.Write("Subiendo a repositorio");
             Console.WriteLine("Se subio");
+            Console.Write("Practica 2");
         }
     }
 }
